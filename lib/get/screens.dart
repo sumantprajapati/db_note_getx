@@ -1,0 +1,1 @@
+export 'package:db_note_getx/screens/screen_dashboard.dart';

@@ -1,0 +1,1 @@
+export 'package:db_note_getx/get/controller/controller_dashboard_screen.dart';
